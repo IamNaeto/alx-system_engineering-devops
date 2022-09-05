@@ -22,4 +22,6 @@ File 10-no_more_js Display a script that deletes all the regular files (not the 
 
 File 11-directories Display a script that counts the number of directories and sub-directories in the current directory. The current and parent directories should not be taken into account and hidden directories should be counted. 
 
-File 12-newest_files  a script that displays the 10 newest files in the current directory. Requirements: One file per line, Sorted from the newest to the oldest. 
+File 12-newest_files  a script that displays the 10 newest files in the current directory. Requirements: One file per line, Sorted from the newest to the oldest.
+
+File 13-unique Create a script that takes a list of words as input and prints only words that appear exactly once. Input format: One line, one word, Output format: One line, one word, Words should be sorted.  
