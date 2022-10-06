@@ -29,4 +29,4 @@ Scripts are also identified with a shebang. Shebang is a combination of bash # a
 [0x03-shell_variables_expansions](https://github.com/IamNaeto/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions) | Introduction to Shell variable expansions
 
 ## Author ##
-### CHarles Obimnaeto Egesionu
+### Charles Obimnaeto Egesionu
